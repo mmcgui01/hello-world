@@ -1,9 +1,15 @@
-<!DOCTYPE html>
+
 <html>
   <head>
-    <thead>Rob</thead>
+    <thead><h1>Rob</h1></thead>
   </head>
     <body>
     </body>
 
 </html>
+
+<style>
+  h1{
+    color:red;
+    }
+</style>
