@@ -1,12 +1,17 @@
-
+html { 
+  background: url(http://static1.squarespace.com/static/4fe0f493e4b0abefd614e023/t/5081b0dce4b0ca69423a698b/1350676701456/FoggySkyline01bw_lo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 h1{
   font-family:Verdana, sans-serif;
   color: red;
   border: 2px solid black;
 }
 
-body{
-  background-color:#9896A4;
+
 }
 img{
   height:150px;
