@@ -8,9 +8,11 @@ html {
 h1{
   font-family:Verdana, sans-serif;
   color: gray;
-  border: solid black;
-  border-width:2px 2px 4px 2px;
+  border-top-style: groove;
+  border-bottom-style:double;
+  border-width: 3px 3px 5px 3px;
 }
+  
 
 
 
