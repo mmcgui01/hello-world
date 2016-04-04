@@ -29,6 +29,7 @@ a:hover{
 }
 
 .rob-links{
+  display:inline;
   padding-right:5px;
   font-weight:bold;
 }
