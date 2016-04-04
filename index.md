@@ -8,8 +8,3 @@
 
 </html>
 
-<style>
-  h1{
-    font-family:Impact;
-    }
-</style>
