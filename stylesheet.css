@@ -1,7 +1,9 @@
 thead{
   border: 2px solid black;
 }
-  
+h1{
+  font-family:Verdana;
+}
 
 body{
   background-color:#9896A4;
