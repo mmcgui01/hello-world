@@ -2,7 +2,9 @@ thead{
   border: 2px solid black;
 }
 h1{
-  font-family:Verdana;
+  font-family:Verdana, sans-serif;
+  Color: red;
+  border: 2px solid black;
 }
 
 body{
@@ -10,5 +12,5 @@ body{
 }
 img{
   height:150px;
-  width:fixed;
+  width:600px;
 }
