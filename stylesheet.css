@@ -32,6 +32,8 @@ a:hover{
   display:inline;
   padding-right:15px;
   font-weight:bold;
+  border-right:solid, 5px;
+  border-left:solid, 5px;
 }
 
 
